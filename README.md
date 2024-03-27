@@ -20,9 +20,4 @@ Sample URL: https://www.youtube.com/watch?v=BWrkByUnfEk&ab_channel=FinTek
 **Step 3:** Select Stock of Interest and View Concise Report
 ![image](https://github.com/k22patel/Karan_Portfolio/assets/149525806/98a4fd7f-eaab-4811-b305-8c3575c009fd)
 
-
-
-
-**[View Project](https://github.com/karan5patel/Youtube-Stock-Analysis)**
-
 **Next Steps:** Update the front end of the solution. Add more variety in terms of information presented. 
