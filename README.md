@@ -4,7 +4,7 @@
 
 **Description:** In the dynamic world of stock investing, staying informed is key, yet the abundance of lengthy, often lengthy YouTube videos on market trends and stock recommendations poses a challenge for the casual investor. With time as a precious commodity, sifting through these extensive videos for valuable insights becomes a daunting task. The solution bridges this gap by offering a comprehensive system designed to summarize these videos, extracting and presenting the most pertinent information in a concise, user-friendly format. 
 
-Utilizing the YouTube API for transcript extraction and the capabilities of the Open AI API for content summarization. Presented on a User friendly Dashboard
+Utilizing the YouTube API for transcript extraction and the capabilities of the Open AI API for content summarization. Presented on a user-friendly dashboard via Python and HTML.
 
 **Technologies:** Python, Chat-GPT API, MatplotLib, Dash, HTML
 
